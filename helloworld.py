@@ -4,6 +4,4 @@ def hello_world(city, state):
 
 def main():
     hello_world('Pheonix', 'AZ')
-
-
 main()
